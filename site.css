@@ -5611,7 +5611,7 @@ body {
     box-shadow: 0px 0px 0px 5px #161616
 }
 
-.m-section-usa-2025 .a-block-hardwell-persona {
+.m-section-usa-2025 .a-block-DASIDIAN-persona {
     position: absolute;
     bottom: 0;
     left: 0%;
@@ -5621,19 +5621,19 @@ body {
     display: none
 }
 
-.m-section-usa-2025 .a-block-hardwell-persona img {
+.m-section-usa-2025 .a-block-DASIDIAN-persona img {
     width: 100%
 }
 
 @media only screen and (min-width: 992px) {
-    .m-section-usa-2025 .a-block-hardwell-persona {
+    .m-section-usa-2025 .a-block-DASIDIAN-persona {
         display: block;
         width: 50%
     }
 }
 
 @media only screen and (min-width:1600px) {
-    .m-section-usa-2025 .a-block-hardwell-persona {
+    .m-section-usa-2025 .a-block-DASIDIAN-persona {
         left: -10%;
         width: 70%
     }
@@ -6265,7 +6265,7 @@ body {
         transform: translateY(200px)
     }
 
-    .m-section-usa-2025.--vote .a-block-hardwell-persona {
+    .m-section-usa-2025.--vote .a-block-DASIDIAN-persona {
         pointer-events: none;
         transform: translate(50%, 0)
     }
@@ -6331,7 +6331,7 @@ body {
 }
 
 @media only screen and (min-width:1600px) {
-    .m-section-usa-2025.--vote .a-block-hardwell-persona {
+    .m-section-usa-2025.--vote .a-block-DASIDIAN-persona {
         transform: translate(35%, 0)
     }
 }
